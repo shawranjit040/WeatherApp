@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 
 function App() {
-  const apiKey = "f56f24967aaf51182d1d4df628297c6d";
+  const apiKey = 'b7c0431351mshf1efdaeeee8ffc5p175f36jsn2eb1f570f414';
   
   const [inputCity, setInputCity] = useState("");
   const [data, setData] = useState({});
